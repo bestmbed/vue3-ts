@@ -4,3 +4,6 @@
    corePlugins: {
     preflight: false,
   },
+
+# Note 
+- ref() ใช้กับตัวแปรที่เป็น boolean , number, string ,, อะไรที่ไม่ใช่ Obj
